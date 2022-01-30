@@ -1016,4 +1016,32 @@ color: #20656F;
 
 .fourthsection {
     width: auto;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: 5vh;
 }
+
+.fourthsection-head {
+    width: auto;
+}
+
+.fourthsection-head-title {
+    text-align: center;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    color: #575757;
+}
+.fourthsection-head-subtitle {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 132.5%;
+    text-align: center;
+    color: #575757;
+}
+
